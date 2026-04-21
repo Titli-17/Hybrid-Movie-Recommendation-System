@@ -97,10 +97,10 @@ pip install pandas numpy scikit-learn scipy matplotlib
     python main.py
 
 
-  ```
+    ```
 
 ## 📊 Evaluation Metrics
-
+    
    1. Precision@K
    2.Recall@K
    3.F1-score
@@ -108,29 +108,30 @@ pip install pandas numpy scikit-learn scipy matplotlib
    The hybrid model shows improved performance compared to individual models.
 
 
-  ```
+    ```
 
 ## 🎯 Applications
 
-  Movie streaming platforms
-  Personalized recommendation systems
-  E-commerce recommendation engines
+  -1.Movie streaming platforms
+  -2.Personalized recommendation systems
+  -3.E-commerce recommendation engines
 
 
-```
+    ```
 
 ## 🤝 Acknowledgement
 
    Dataset provided by GroupLens Research (MovieLens)
 
-```
+    ```
 
 ## 👩‍💻 Author
       TITLI BISWAS
 
-  ```
+ 
+    ```
 
- ## ⭐ Support
+## ⭐ Support
 
    If you like this project, give it a ⭐ on GitHub!
 
