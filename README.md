@@ -71,3 +71,66 @@ The system uses **TF-IDF vectorization and cosine similarity** for content-based
 ---
 
 ## 📈 Sample Output
+-Top Hybrid Recommendations for User 1:
+
+1.Rosencrantz and Guildenstern Are Dead (1990)
+2.The General (1926)
+3.Spartacus (1960)
+4.Now You See Me (2013)
+ ...
+
+ 
+➡️ Full output available in: `results.txt` :contentReference[oaicite:6]{index=6}  
+
+---
+
+## ⚙️ Installation
+
+```bash
+pip install pandas numpy scikit-learn scipy matplotlib
+
+
+```
+
+## ▶️ Run the Project
+    ```bash
+    python main.py
+
+
+  ```
+
+## 📊 Evaluation Metrics
+
+   1. Precision@K
+   2.Recall@K
+   3.F1-score
+
+   The hybrid model shows improved performance compared to individual models.
+
+
+  ```
+
+## 🎯 Applications
+
+  Movie streaming platforms
+  Personalized recommendation systems
+  E-commerce recommendation engines
+
+
+```
+
+## 🤝 Acknowledgement
+
+   Dataset provided by GroupLens Research (MovieLens)
+
+```
+
+## 👩‍💻 Author
+      TITLI BISWAS
+
+  ```
+
+ ## ⭐ Support
+
+   If you like this project, give it a ⭐ on GitHub!
+
